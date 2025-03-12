@@ -1,4 +1,8 @@
-# SmartHome_RTOS
+# SmartHome_RTOS  
+  
+동작은 Non-OS(baremetal)과 같음  
+https://youtube.com/shorts/aN1RXHmshrU?feature=shared  
+
 5 Threads  
 
 ![image](https://github.com/user-attachments/assets/723d7f88-18cd-4366-810c-2440f6e4de41)  
@@ -11,8 +15,7 @@ Free RTOS로 변경하면서,
 
 스레드 간의 흐름 제어에 대해 연습함 (세마포어-동기화)
 
-동작은 Non-OS(baremetal)과 같음  
-https://youtube.com/shorts/aN1RXHmshrU?feature=shared
+
 
 
 새로운 프로젝트를 생성하는 것 이외에 non-OS를 RTOS로 변경하는 방법은 없음  
